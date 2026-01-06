@@ -2,7 +2,7 @@
 
 A Google Apps Script that combines AI-powered infographic generation with professional document formatting. 
 
-> **Read our full blog article for more details:** [GenAI Secret Sauce for Google Docs Professional Formatting and Infographics]([https://genaisecretsauce.com/genai-secret-sauce-for-building-a-private-ai-server/](https://genaisecretsauce.com/genai-secret-sauce-for-google-docs-professional-formatting-and-infographics/))
+**Read our full blog article for more details:** [GenAI Secret Sauce for Google Docs Professional Formatting and Infographics]([https://genaisecretsauce.com/genai-secret-sauce-for-building-a-private-ai-server/](https://genaisecretsauce.com/genai-secret-sauce-for-google-docs-professional-formatting-and-infographics/))
 
 
 ## Features
